@@ -15,3 +15,6 @@ Requires `go-exif` package.
 * Specify the *root* directory as a command-line or configuration file option.
 * Other outputs including MongoDB, Elastic, STDOut, or allow the user to specify an
   output file.
+* Use concurrency / async operations
+* Optimize heavy operations (e.g. MD5 Sum generation)
+* Better exception handling
