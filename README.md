@@ -1,0 +1,1 @@
+Requires `go-exif` package.
